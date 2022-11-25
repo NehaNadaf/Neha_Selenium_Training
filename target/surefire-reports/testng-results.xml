@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-24T00:33:49 IST" name="Suite" finished-at="2022-11-24T00:34:30 IST" duration-ms="41348">
+    <groups>
+    </groups>
+    <test started-at="2022-11-24T00:33:49 IST" name="Test" finished-at="2022-11-24T00:34:30 IST" duration-ms="41348">
+      <class name="Report.TestClass1">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Report.TestClass1@3c73951]" started-at="2022-11-24T00:33:49 IST" name="setup" finished-at="2022-11-24T00:33:58 IST" duration-ms="9232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="InvalidUsernameInvalidPassword()[pri:0, instance:Report.TestClass1@3c73951]" started-at="2022-11-24T00:33:58 IST" name="InvalidUsernameInvalidPassword" finished-at="2022-11-24T00:34:00 IST" duration-ms="1195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidUsernameInvalidPassword -->
+        <test-method is-config="true" signature="clearup()[pri:0, instance:Report.TestClass1@3c73951]" started-at="2022-11-24T00:34:00 IST" name="clearup" finished-at="2022-11-24T00:34:00 IST" duration-ms="400" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Report.TestClass1@3c73951]" started-at="2022-11-24T00:34:00 IST" name="setup" finished-at="2022-11-24T00:34:06 IST" duration-ms="5517" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="InvalidUsernamevalidPassword()[pri:0, instance:Report.TestClass1@3c73951]" started-at="2022-11-24T00:34:06 IST" name="InvalidUsernamevalidPassword" finished-at="2022-11-24T00:34:07 IST" duration-ms="1258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InvalidUsernamevalidPassword -->
+        <test-method is-config="true" signature="clearup()[pri:0, instance:Report.TestClass1@3c73951]" started-at="2022-11-24T00:34:07 IST" name="clearup" finished-at="2022-11-24T00:34:07 IST" duration-ms="502" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Report.TestClass1@3c73951]" started-at="2022-11-24T00:34:07 IST" name="setup" finished-at="2022-11-24T00:34:13 IST" duration-ms="5685" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="noDetails()[pri:0, instance:Report.TestClass1@3c73951]" started-at="2022-11-24T00:34:13 IST" name="noDetails" finished-at="2022-11-24T00:34:13 IST" duration-ms="155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- noDetails -->
+        <test-method is-config="true" signature="clearup()[pri:0, instance:Report.TestClass1@3c73951]" started-at="2022-11-24T00:34:13 IST" name="clearup" finished-at="2022-11-24T00:34:14 IST" duration-ms="397" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Report.TestClass1@3c73951]" started-at="2022-11-24T00:34:14 IST" name="setup" finished-at="2022-11-24T00:34:19 IST" duration-ms="5743" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validCredentials()[pri:0, instance:Report.TestClass1@3c73951]" started-at="2022-11-24T00:34:19 IST" name="validCredentials" finished-at="2022-11-24T00:34:22 IST" duration-ms="3007" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validCredentials -->
+        <test-method is-config="true" signature="clearup()[pri:0, instance:Report.TestClass1@3c73951]" started-at="2022-11-24T00:34:22 IST" name="clearup" finished-at="2022-11-24T00:34:23 IST" duration-ms="388" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearup -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:Report.TestClass1@3c73951]" started-at="2022-11-24T00:34:23 IST" name="setup" finished-at="2022-11-24T00:34:29 IST" duration-ms="5843" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validUsernameInvalidPassword()[pri:0, instance:Report.TestClass1@3c73951]" started-at="2022-11-24T00:34:29 IST" name="validUsernameInvalidPassword" finished-at="2022-11-24T00:34:30 IST" duration-ms="1526" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validUsernameInvalidPassword -->
+        <test-method is-config="true" signature="clearup()[pri:0, instance:Report.TestClass1@3c73951]" started-at="2022-11-24T00:34:30 IST" name="clearup" finished-at="2022-11-24T00:34:30 IST" duration-ms="428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearup -->
+      </class> <!-- Report.TestClass1 -->
+      <class name="Report.LoginAutomation_1">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Report.LoginAutomation_1@1e04fa0a]" started-at="2022-11-24T00:33:49 IST" name="setup" finished-at="2022-11-24T00:33:55 IST" duration-ms="5553" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="login()[pri:0, instance:Report.LoginAutomation_1@1e04fa0a]" started-at="2022-11-24T00:33:55 IST" name="login" finished-at="2022-11-24T00:33:55 IST" duration-ms="477" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Report.LoginAutomation_1@1e04fa0a]" started-at="2022-11-24T00:33:55 IST" name="teardown" finished-at="2022-11-24T00:33:55 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Report.LoginAutomation_1 -->
+      <class name="Report.AssertionDemo">
+        <test-method signature="login()[pri:0, instance:Report.AssertionDemo@f5acb9d]" started-at="2022-11-24T00:33:49 IST" name="login" finished-at="2022-11-24T00:33:49 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="logOutApplication()[pri:0, instance:Report.AssertionDemo@f5acb9d]" started-at="2022-11-24T00:33:49 IST" name="logOutApplication" finished-at="2022-11-24T00:33:49 IST" depends-on-methods="Report.AssertionDemo.login" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOutApplication -->
+      </class> <!-- Report.AssertionDemo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
